@@ -6,7 +6,7 @@ class InputInfo extends Component{
             <div>
                 <input type="text"/>
                 <button onClick="">请点击我</button>
-                <input type="text" />
+                <input type="text"  />
             </div>
         )
     }
